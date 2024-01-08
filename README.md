@@ -1,6 +1,6 @@
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hi there! </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> I am a backend developer who is interested in NFT </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> I am a backend developer</div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
